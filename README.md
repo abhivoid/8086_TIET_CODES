@@ -1,6 +1,6 @@
 # 8086_TIET_CODES
 1. Write an assembly language program to add two 16-bit numbers in 8086.
-2.Write an assembly language program to subtract two 16-bit numbers in 8086.
+2. Write an assembly language program to subtract two 16-bit numbers in 8086.
 3. Write an assembly language program to multiply two 16-bit numbers in 8086.
 4. Write an assembly language program to divide two 16-bit numbers in 8086.
 5. Write an assembly language program to demonstrate AAA, AAS, AAM, AAD, DAA and DAS in 8086.
