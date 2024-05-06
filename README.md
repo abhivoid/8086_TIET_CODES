@@ -9,3 +9,4 @@
 8. Write an assembly language program to convert to find out the largest number from a given unordered array of 16-bit numbers, stored in the locations starting from a known address in 8086.
 9. Write an assembly language program to print Fibonacci series in 8086.
 10. Write an assembly language program to perform the division 15/6 using the ASCII codes. Store the ASCII codes of the result in register DX.
+11. Write an assembly language program to arrange array of ten 8-bit numbers in ascending order.
